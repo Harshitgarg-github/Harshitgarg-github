@@ -10,7 +10,7 @@
 
 </p>
 
-[![Email](https://img.shields.io/badge/Email-as340490@gmail.com-8B89CC?style=flat-square&logo=gmail)](mailto:harshitgarg9870@gmail.com)
+[![Email](https://img.shields.io/badge/Email-harshitgarg9870@gmail.com-8B89CC?style=flat-square&logo=gmail)](mailto:harshitgarg9870@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harshit-garg-366bab319/)
 
 </div>
