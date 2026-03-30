@@ -95,8 +95,8 @@ console.log(me.info());
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <div style="display: flex; flex-direction: column; gap: 30px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-chicku&theme=dark&hide_border=false&layout=compact" style="height: 200px;" />
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Abhishek-chicku&theme=dark&hide_border=false" style="height: 200px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitgarg-githu&theme=dark&hide_border=false&layout=compact" style="height: 200px;" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Harshitgarg-github&theme=dark&hide_border=false" style="height: 200px;" />
     </div>
     <div>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-chicku&theme=github_dark" style="height: 420px;" />
