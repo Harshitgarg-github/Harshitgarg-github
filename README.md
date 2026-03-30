@@ -2,7 +2,7 @@
 <div align="center">
   <p align="center">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=CC33FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Harshit+Garg;Aspiring+Full+Stack+Developer;AI+%26+ML+Enthusiast;BCA+Student" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=CC33FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Harshit+Garg;Full+Stack+Developer;BCA+Student" 
       alt="Typing SVG"
       style="filter: drop-shadow(0 0 10px #cc33ff) drop-shadow(0 0 20px #7f00ff) drop-shadow(0 0 34px #ff00ff);"
     />
@@ -10,9 +10,9 @@
 
 </p>
 
-[![Email](https://img.shields.io/badge/Email-as340490@gmail.com-8B89CC?style=flat-square&logo=gmail)](mailto:as340490@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-kumar-907710319/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=flat-square&logo=firefox)](https://my-portfolio-pfym.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-as340490@gmail.com-8B89CC?style=flat-square&logo=gmail)](mailto:harshitgarg9870@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harshit-garg-366bab319/)
+
 </div>
 
 ## 🧩 Pieces of My Dev Puzzle
@@ -21,9 +21,9 @@
 class Developer {
   constructor() {
     this.name = "Harshit Garg";
-    this.role = "Aspiring Full-Stack Developer";
+    this.role = "Full-Stack Developer";
     this.education = "Final Year BCA Student";
-    this.interests = ["Full-Stack Development", "AI/ML", "DSA"];
+    this.interests = ["Full-Stack Development"];
     this.passion = "Solving real-world problems with technology";
   }
   info() {
@@ -67,7 +67,6 @@ console.log(me.info());
 **Cloud**  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)  
 
 **OS:**  
@@ -84,9 +83,9 @@ console.log(me.info());
 
 | Project | Description | Tech Stack | Links |
 |----------|--------------|-------------|--------|
-| **Zerodha Clone** | A full-featured trading platform clone built using the MERN stack with live charts (Chart.js). | React, Node.js, Express, MongoDB, Chart.js | [🌐](https://zerodha-frontend-h69v.vercel.app) |
-| **VibeCall** | A full-stack video hosting and streaming platform with authentication, upload, and playback features. | React, Node.js, Express, MongoDB, Cloudinary | [🌐](https://vibecallfrontend2.onrender.com/) |
-| **Fake Review Detection ML Model** | Machine learning model to detect fake product reviews using NLP techniques. | Python, SVM , Pandas, Flask | [GitHub](https://github.com/Abhishek-chicku/ML-Model-Fake-Review-Detection) |
+| **AstroMind** | Developed a full-stack AI-powered chatbot application using the MERN stack that replicates core functionalities of ChatGPT | React, Node.js, Express, MongoDB, Chart.js ||
+| **Netflix CLone** |•	Developed a Netflix Clone web application inspired by Netflix using HTML, CSS, and JavaScript to replicate core features like movie browsing and responsive UI. | HTML, CSS, JavaScript ||
+| **Calculator** | •	Developed a basic calculator application using Python that performs arithmetic operations such as addition,     subtraction, multiplication, and division.   | Python, HTML , CSS, JavaScript ||
 
 
 </div>
