@@ -99,7 +99,7 @@ console.log(me.info());
       <img src="https://nirzak-streak-stats.vercel.app/?user=Harshitgarg-github&theme=dark&hide_border=false" style="height: 200px;" />
     </div>
     <div>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-chicku&theme=github_dark" style="height: 420px;" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshitgarg-githu&theme=github_dark" style="height: 420px;" />
     </div>
   </div>
 </div>
